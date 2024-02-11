@@ -1,0 +1,7 @@
+http://localhost:8000/cookie/set?name=myCookie&value=myValue&httpOnly=true
+
+http://localhost:8000/cookie/get/chocolate
+
+http://localhost:8000/header/set?name=cat&value=12
+
+http://localhost:8000/header/get?name=cat
